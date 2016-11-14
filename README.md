@@ -3,7 +3,7 @@
 week 06 - 31st October 2016
 ---------------------------
 Section 01 HTML
-- [version 01](https://aoifemclaughlin.github.io/john-baskerville/baskerville1.html)
+- [version 01](https://aoifemclaughlin.github.io/john-baskerville/baskerville1.html) 
 
 
 week 07 - 7th November 2016
